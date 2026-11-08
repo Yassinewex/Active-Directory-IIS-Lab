@@ -1,7 +1,7 @@
 ### Phase 2: Active Directory Management
 - **Organizational Unit Creation**: Created a dedicated OU named **'ProjetPro'** to compartmentalize project resources.
 
-- <img width="478" height="52" alt="2" src="https://github.com/user-attachments/assets/27df2887-d297-4468-8e44-ec34654a9849" />
+ <img width="478" height="52" alt="2" src="https://github.com/user-attachments/assets/27df2887-d297-4468-8e44-ec34654a9849" />
 
 - **User Provisioning**: Created and enabled the test user account **'TestUser'** within the specified OU.
 
@@ -12,7 +12,7 @@
 <img width="459" height="33" alt="5" src="https://github.com/user-attachments/assets/8d46b866-aa06-464d-b1b2-4a50936382f2" />
 
 - **Group Security Management**: Established a Global Security Group named **'ProjetTeam'** and assigned **'TestUser'** as a member to facilitate role-based access control.
-- <img width="727" height="32" alt="6" src="https://github.com/user-attachments/assets/c126b3eb-d1a8-494a-af9f-478706154cb0" />
+ <img width="727" height="32" alt="6" src="https://github.com/user-attachments/assets/c126b3eb-d1a8-494a-af9f-478706154cb0" />
 
 <img width="635" height="34" alt="7" src="https://github.com/user-attachments/assets/0bc694f8-e040-444c-b87f-ce45f4762600" />
 
