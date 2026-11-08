@@ -1,5 +1,5 @@
 ### Phase 2: Active Directory Management
-- **Organizational Unit Creation**: Created a dedicated OU named **'ProjetPro'** to compartmentalize project resources.
+- **Organizational Unit Creation**: Created a dedicated OU named **'Yassin'** to compartmentalize project resources.
 
  <img width="478" height="52" alt="2" src="https://github.com/user-attachments/assets/27df2887-d297-4468-8e44-ec34654a9849" />
 
