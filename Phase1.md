@@ -1,9 +1,6 @@
 ### Phase 1: Infrastructure Setup
 - **Windows Server Deployment**: Installed and configured the core operating system within the virtual environment.
 - **Role Promotion**: Promoted the server to a Domain Controller by enabling Active Directory Domain Services (AD DS).
-
-<img width="1280" height="692" alt="22222222222" src="https://github.com/user-attachments/assets/7d50dc65-4118-44bd-b0eb-1703e1099c3f" />
-
 - **Core Services Initialization**: Configured static IP addressing and set up DNS to manage network routing and domain resolution.
 
 <img width="1280" height="222" alt="1111111111111" src="https://github.com/user-attachments/assets/43f2b899-5c40-4901-b432-513416f4860e" />
