@@ -11,5 +11,5 @@
 
 - **Inheritance Management**: Configured permission propagation to ensure consistent access control across subdirectories and files.  
 
-<img width="591" height="67" alt="11" src="https://github.com/user-attachments/assets/25838c1c-1a51-40d6-be1c-6964f74e971e" />
+
 
